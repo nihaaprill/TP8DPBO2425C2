@@ -2,7 +2,10 @@
 
 Saya Niha April Miani dengan NIM 2402567 mengerjakan TP 8 dalam mata kuliah Desain Pemogramana Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-# 1. Penjelasan Database / Tabel
+# 1. Penjelasan Database
+
+![Deskripsi gambar](Dokumentasi/tabel.png)
+
 Database menggunakan dua tabel utama, yaitu department dan lecturers.
 ## Tabel department ##
 Digunakan untuk menyimpan data departemen/jurusan.
@@ -59,3 +62,30 @@ View menampilkan tabel, form, tombol edit atau delete sesuai data yang diterima.
   - Edit data → controller memuat data lama → model memperbarui
   - Delete data → controller meminta model menghapus
   - Tabel otomatis terupdate setelah aksi dilakukan
+
+# Dokumentasi
+## Department ##
+- Add
+![Deskripsi gambar](Dokumentasi/addDep.gif)
+
+- Update
+![Deskripsi gambar](Dokumentasi/updateDep.gif)
+
+- Delete
+![Deskripsi gambar](Dokumentasi/delDep.gif)
+
+## Lecturer ##
+- Add
+![Deskripsi gambar](Dokumentasi/addLec.gif)
+
+- Update
+![Deskripsi gambar](Dokumentasi/updateLec.gif)
+
+- Delete
+![Deskripsi gambar](Dokumentasi/delLec.gif)
+
+
+
+
+
+
