@@ -66,22 +66,28 @@ View menampilkan tabel, form, tombol edit atau delete sesuai data yang diterima.
 # Dokumentasi
 ## Department ##
 - Add
+
 ![Deskripsi gambar](Dokumentasi/addDep.gif)
 
 - Update
+
 ![Deskripsi gambar](Dokumentasi/updateDep.gif)
 
 - Delete
+
 ![Deskripsi gambar](Dokumentasi/delDep.gif)
 
 ## Lecturer ##
 - Add
+
 ![Deskripsi gambar](Dokumentasi/addLec.gif)
 
 - Update
+
 ![Deskripsi gambar](Dokumentasi/updateLec.gif)
 
 - Delete
+
 ![Deskripsi gambar](Dokumentasi/delLec.gif)
 
 
