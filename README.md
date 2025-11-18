@@ -1,5 +1,7 @@
 # TP8DPBO2425C2
 
+Saya Niha April Miani dengan NIM 2402567 mengerjakan TP 8 dalam mata kuliah Desain Pemogramana Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+
 # 1. Penjelasan Database / Tabel
 Database menggunakan dua tabel utama, yaitu department dan lecturers.
 ## Tabel department ##
